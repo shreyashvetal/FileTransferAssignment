@@ -11,7 +11,7 @@ setup(
     description="A Python module for transferring files to AWS S3 and Google Cloud Storage",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/my_file_transfer_module",  # Replace with your repository URL
+    url="https://github.com/shreyashvetal/SacumenAssignment.git",
     packages=find_packages(),
     install_requires=[
         "boto3", 
