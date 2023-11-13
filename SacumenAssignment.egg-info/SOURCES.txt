@@ -1,9 +1,0 @@
-setup.py
-SacumenAssignment.egg-info/PKG-INFO
-SacumenAssignment.egg-info/SOURCES.txt
-SacumenAssignment.egg-info/dependency_links.txt
-SacumenAssignment.egg-info/entry_points.txt
-SacumenAssignment.egg-info/requires.txt
-SacumenAssignment.egg-info/top_level.txt
-services/__init__.py
-services/transfer.py

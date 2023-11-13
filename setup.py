@@ -1,17 +1,14 @@
 from setuptools import setup, find_packages
 
-with open("README.md", "r", encoding="utf-8") as readme_file:
-    long_description = readme_file.read()
 
 setup(
-    name="SacumenAssignment",
+    name="Filetransfer",
     version="1.0.0", 
     author="Shreyash Vetal",
     author_email="shreyasvetal99@gmail.com",
     description="A Python module for transferring files to AWS S3 and Google Cloud Storage",
-    long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/shreyashvetal/SacumenAssignment.git",
+    url="https://github.com/shreyashvetal/FileTransferAssignment.git",
     packages=find_packages(),
     install_requires=[
         "boto3", 
@@ -19,7 +16,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "SacumenAssignment=services.transfer:main"
+            
         ]
     },
     python_requires=">=3.7",

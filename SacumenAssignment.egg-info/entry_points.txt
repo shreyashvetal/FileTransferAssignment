@@ -1,2 +1,0 @@
-[console_scripts]
-SacumenAssignment = services.transfer:main

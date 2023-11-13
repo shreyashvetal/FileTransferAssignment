@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Filetransfer
+Version: 1.0.0
+Summary: A Python module for transferring files to AWS S3 and Google Cloud Storage
+Home-page: https://github.com/shreyashvetal/FileTransferAssignment.git
+Author: Shreyash Vetal
+Author-email: shreyasvetal99@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: boto3
+Requires-Dist: google-cloud-storage

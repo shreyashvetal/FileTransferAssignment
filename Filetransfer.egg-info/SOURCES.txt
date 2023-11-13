@@ -1,0 +1,8 @@
+setup.py
+Filetransfer.egg-info/PKG-INFO
+Filetransfer.egg-info/SOURCES.txt
+Filetransfer.egg-info/dependency_links.txt
+Filetransfer.egg-info/requires.txt
+Filetransfer.egg-info/top_level.txt
+filetransfer/__init__.py
+filetransfer/transfer.py
